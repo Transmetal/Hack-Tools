@@ -25,7 +25,7 @@ With the extension you **no longer need to search for payloads in different webs
 ### Build from source code
 
 ```bash
-git clone https://github.com/LasCC/Hack-Tools.git
+git clone https://github.com/Transmetal/Hack-Tools
 cd Hack-Tools
 npm install && npm run build     # If you have installed yarn you can replace npm with yarn
 ```
