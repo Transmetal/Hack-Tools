@@ -22,29 +22,6 @@ With the extension you **no longer need to search for payloads in different webs
 - CVE Search Engine
 - Various method of data exfiltration and download from a remote machine
 
-## Preview
-
-<div align='center'>
-  <img alt="preview_1" src="./src/assets/img/preview.gif?raw=true" />
-</div>
-
-<div align='center'>
-  <img alt="preview_2" src="https://i.imgur.com/5HIr6a6.png" />
-</div>
-
-<div align='center'>
-  <img alt="preview_3" src="https://i.imgur.com/Q6cXVBw.png" />
-</div>
-
-<div align='center'>
-  <img alt="preview_4" src="https://i.imgur.com/ME6lyOU.png" />
-</div>
-
-<div align='center'>
-  <img alt="preview_5" src="https://i.imgur.com/HQsboJW.png" />
-</div>
-
-
 # Install the extension
     
 <h2> 
