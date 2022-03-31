@@ -22,46 +22,6 @@ With the extension you **no longer need to search for payloads in different webs
 - CVE Search Engine
 - Various method of data exfiltration and download from a remote machine
 
-# Install the extension
-    
-<h2> 
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chromium.svg" alt="chromium_icon" title='Chromium' width="25" height="25" style="float:left;" />
-  Chromium based browser
-</h2>
-
-You can download the **latest build** [here.](https://github.com/LasCC/Hack-Tools/releases)
-
-Or, you can download the extension on the **chrome web store** [here.](https://chrome.google.com/webstore/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi)
-
-Otherwise, you can build the project yourself from the source code
-
-<h2> 
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/firefox.svg" alt="firefox_icon" title='Firefox' width="25" height="25" style="float:left;" /> 
-  Mozilla Firefox
-</h2>
-
-You can download **HackTools** on the Firefox browser add-ons [here.](https://addons.mozilla.org/en-US/firefox/addon/hacktools/)
-
-<h2> 
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/safari.svg" alt="safari_icon" title='Safari' width="25" height="25" style="float:left;" /> 
-  Instructions to build for Safari
-</h2>
-
-Create a safari web extension project using the command below. *This is to be run once.*
-
-```bash
-xcrun safari-web-extension-coverter [path_to_dist_folder]
-```
-
-Follow the instructions to create the project the default language should be Swift.
-
-- Build project.
-- Open Safari and enable unsigned extensions; Develop -> Allow Unsigned Extensions.
-- Open Safari -> Preferences -> Extensions and enable Hack-Tools
-- Click on the extension icon and switch to full screen mode.
-
-*Instructions provided by [jayluxferro](https://github.com/LasCC/Hack-Tools/issues/88)*
-
 ### Build from source code
 
 ```bash
