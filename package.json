@@ -68,7 +68,7 @@
 		"react-dom": "latest",
 		"react-query": "^3.33.1",
 		"react-refresh-typescript": "^2.0.2",
-		"react-syntax-highlighter": "^15.4.5",
+		"react-syntax-highlighter": "^16.0.0",
 		"sm3": "^1.0.3",
 		"ts-loader": "^9.2.6",
 		"use-persisted-state": "^0.3.3"
